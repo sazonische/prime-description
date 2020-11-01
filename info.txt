@@ -4,4 +4,3 @@ Support Core: 16.24.19;
 Description: Расширение вывода подписи на форуме;
 Author: SAZONISCHE;
 Author URI: https://mmcs.pro/;
-Add-on Uri: https://codeseller.ru/products/prime-easy-pro/;
